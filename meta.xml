@@ -1,0 +1,5 @@
+<meta>
+        <info author="Gaimo" version="1.0.0" type="script" />
+	<script src="s.lua" type="server" />
+	<script src="c.lua" type="client" />
+</meta>
